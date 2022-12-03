@@ -1,0 +1,3 @@
+﻿Aqui está o conteúdo do nosso arquivo text-file.txt
+Mais uma linha
+Esta é a ultima linha
